@@ -1,0 +1,111 @@
+{
+  "education": [
+    {
+      "awards_achievements": [],
+      "degree": "Advanced Diploma",
+      "department": "Computer Systems Technology - Network Engineering and Security Analyst",
+      "duration": "2019-2023",
+      "school_name": "Mohawk College"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_AnthonyNavarro",
+  "highlighted_projects": [
+    {
+      "description": "Designed and implemented a scalable network infrastructure for a medium sized business focusing on efficient routing and switching. Designed a network topology using cisco routers and switches, incorporating redundancy and load balancing.",
+      "git_url": null,
+      "name": "Network design and Implementation"
+    },
+    {
+      "description": "Setup and managed a database server for a small e-commerce business focusing on data integrity, security and performance optimization. Installed and configured MySQL and SQL server on windows server/Linux environments. Implemented data beckup and recovery strategies to ensure data integrity and availability",
+      "git_url": null,
+      "name": "Database server setup and Management"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "The Linux Cluster Monitoring project involves developing a system that tracks hardware and usage data across a network of Linux machines. The solution uses bash scripts to collect system information (CPU, memory, disk usage) and stores it in a PostgreSQL database for analysis. This project helps administrators monitor system performance and optimize resource usage. It integrates scheduling with crontab for regular data collection and utilizes Docker to manage the PostgreSQL database instance.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    },
+    {
+      "description": "Not Started",
+      "git_url": "/core_java",
+      "name": "Core Java Apps"
+    },
+    {
+      "description": "Not Started",
+      "git_url": "/springboot",
+      "name": "Springboot App"
+    },
+    {
+      "description": "Not Started",
+      "git_url": "/python_data_anlytics",
+      "name": "Python Data Analytics"
+    },
+    {
+      "description": "Not Started",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    },
+    {
+      "description": "Not Started",
+      "git_url": "/spark",
+      "name": "Spark"
+    },
+    {
+      "description": "Not Started",
+      "git_url": "/cloud_devops",
+      "name": "Cloud/DevOps"
+    }
+  ],
+  "name": "Anthony Navarro-Castillo",
+  "others": [
+    {
+      "bullets": [
+        "Soccer player",
+        "Gaming",
+        "Art",
+        "Gym"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Developing technical skills in Git, Docker, CI/CD and coding practices while contributing to real-world projects in software development and systems administration at Jarvis",
+      "duration": "2024-present",
+      "title": "Software Developer"
+    },
+    {
+      "company": "The Brick",
+      "description": "Assist customers with loading and unloading their puchases, providing excellent service and support. Work closely with team members and supervisors to ensure smooth and effcient warehouse operations",
+      "duration": "2021-2024",
+      "title": "Warehouse Associate"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Virtualization",
+      "Hardware Troubleshooting",
+      "Docker container",
+      "Project Management",
+      "Data Analysis"
+    ],
+    "familiar": [
+      "Problem-solving",
+      "Communication",
+      "Teamwork",
+      "Time Management",
+      "Adaptability"
+    ],
+    "proficient": [
+      "Python",
+      "Linux/Bash",
+      "RDBMS/SQL",
+      "Agile/Scrum",
+      "Git"
+    ]
+  },
+  "summary": "I am eager to begin my professional career in technology. My academic background includes hands-on experience in key areas such as Cisco Routing and Switching, Database Server Administration, and PowerShell Scripting, as well as security auditing and forensics. Through projects and coursework, I have developed strong problem-solving skills and a solid understanding of networking concepts. Although I do not have formal professional experience, I am highly motivated to apply my knowledge in a real-world setting, continuously learn, and grow in the field."
+}
